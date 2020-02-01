@@ -1,2 +1,2 @@
-# terraform-module-aws-alb-listener
-Terraform module AWS ALB Listener
+# terraform-module-alb-listener
+Terraform module AWS Listener
